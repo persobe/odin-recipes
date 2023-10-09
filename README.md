@@ -1,0 +1,2 @@
+In this first odin project I put into use most of what I learned. Lists, paragraphs, headings, file management, and other less major things.
+I forgor to use git, so I will be sure to go back to this, and try to write the code again just by looking at the website, and make sure to commit every small step in git.
